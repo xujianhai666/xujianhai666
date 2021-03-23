@@ -10,21 +10,17 @@ Hi, I am Xu Jianhai, A software engineer at china. His research iterests mainly 
 
 <p align="center">
 
-<img align="right" src="https://github.com/xujianhai666/xujianhai666/raw/master/developer.gif"/> 
+<img  src="https://github.com/xujianhai666/xujianhai666/raw/master/developer.gif"/> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xujianhai666&show_icons=true" alt="xujianhai666"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xujianhai666&show_icons=true" alt="xujianhai666"/>
 
 </p>
 
-<br/>
-<p align="center">
 
-<h3>Excellent Job</h3>
+### Excellent Job
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xujianhai666&repo=rocketmq)](https://github.com/apache/rocketmq)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xujianhai666&repo=rocketmq-client-go)](https://github.com/apache/rocketmq-client-go)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xujianhai666&repo=pulsar-client-go)](https://github.com/apache/pulsar-client-go)
-
-</p>
