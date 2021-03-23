@@ -8,8 +8,9 @@ Hi, I am Xu Jianhai, A software engineer at china. His research iterests mainly 
 - Github: [@xujianhai666](https://github.com/xujianhai666)
 - Email: snow4young@gmail.com
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xujianhai666&show_icons=true" alt="xujianhai666"/> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xujianhai666&show_icons=true" alt="xujianhai666"/> </p>
+<img align="right" src="https://github.com/xujianhai666/xujianhai666/raw/master/developer.gif"/>
 
 ### Excellent Job
 
